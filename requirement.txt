@@ -1,0 +1,4 @@
+numpy
+pandas
+pyinstaller
+auto-py-to-exe
