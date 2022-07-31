@@ -11,9 +11,10 @@ example : pyinstaller test1.py
 syntax : pyinstaller --onefile [filename]
 example : pyinstaller --onefile test2.py
 
-# if you do not wish to run a cmd in background when opening a .exe file then we use: (Use test2.py for this step)
-pyinstaller --onefile --windowed [filename]
-eg : pyinstaller --onefile --windowed test2.py
+# if you do not wish to run a cmd in background when opening a .exe file then we use: 
+(Use test3.py for this step)
+syntax : pyinstaller --onefile --windowed [filename]
+example : pyinstaller --onefile --windowed test3.py
 
 # if you wish to change icon of .exe file: (you might have to change the view in windows to check the icon)
 pyinstaller --onefile --windowed --icon "[icon path]" [filename]
