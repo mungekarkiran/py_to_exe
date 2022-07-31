@@ -22,3 +22,18 @@ eg : pyinstaller --onefile --windowed --icon "sample_icon.ico" test2.py
 # if you wish to perform all the above tasks with the help of GUI:
 pip install auto-py-to-exe
 auto-py-to-exe
+
+
+git commands:
+
+git init  
+
+git add . 
+
+git status
+
+git commit -m "First_Exe_File"
+
+git log
+
+git push origin main

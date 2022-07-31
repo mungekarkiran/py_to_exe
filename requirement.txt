@@ -2,3 +2,5 @@ numpy
 pandas
 pyinstaller
 auto-py-to-exe
+gTTS
+pyttsx3
